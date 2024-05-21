@@ -2,3 +2,4 @@
 .lightning_studio
 .viminfo
 .vscode
+**/__pycache__
