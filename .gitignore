@@ -3,3 +3,7 @@
 .viminfo
 .vscode
 **/__pycache__
+
+.triton
+errors.txt
+swarms.log
